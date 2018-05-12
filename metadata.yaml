@@ -1,0 +1,34 @@
+_repo: Illustrated-Catalogue-of-the-Collections-Obtained-from-the-Pueblos-of-Zu-i-New-Mexico-and-Wol__19606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, James
+    birthdate: 1840
+    deathdate: 1888
+    gutenberg_agent_id: '8196'
+    url: http://www.gutenberg.org/2009/agents/8196
+    wikipedia: https://en.wikipedia.org/wiki/James_Stevenson_%28geologist%29
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Archaeology
+gutenberg_issued: '2006-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hopi Indians -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Zuni Indians -- Antiquities'
+title: "Illustrated Catalogue of the Collections Obtained from the Pueblos of Zuñi,\
+  \ New Mexico, and Wolpi, Arizona, in 1881\r\nThird Annual Report of the Bureau of\
+  \ Ethnology to the Secretary of the Smithsonian Institution, 1881-82, Government\
+  \ Printing Office, Washington, 1884, pages 511-594"
+url: http://www.gutenberg.org/ebooks/19606
