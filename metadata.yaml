@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8196
     wikipedia: https://en.wikipedia.org/wiki/James_Stevenson_%28geologist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19606#Illustrated-Catalogue-of-the-Collections-Obtained-from-the-Pueblos-of-Zu-i-New-Mexico-and-Wol_
 gutenberg_bookshelf:
 - Native America
 - Archaeology
